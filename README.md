@@ -59,4 +59,4 @@ Website berisi data berbagai lagu dengan banyak atribut dengan tujuan memberikan
 
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810190017  | Saddam Habibi Utomo |
+| 140810190015  | Salsabila Karin |
