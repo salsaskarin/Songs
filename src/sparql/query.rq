@@ -1,0 +1,17 @@
+PREFIX id: <https://songs.com/>
+PREFIX item: <https://songs.com/ns/item#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?Track ?Artist ?Source ?Release ?Previous ?Producers ?Songwriters ?Streams
+WHERE
+{ 
+    ?items
+        item:Track     ?Track ;
+        item:Artist      ?Artist ;
+        item:Source            ?Source ;
+        item:Release        ?Release ;
+        item:Previous            ?Previous ;
+        item:Producers          ?Producers ;
+        item:Songwriters           ?Songwriters ;
+        item:Streams             ?Streams .
+}

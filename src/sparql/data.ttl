@@ -1,0 +1,305 @@
+@prefix id: <https://songs.com/> .
+@prefix item: <https://songs.com/ns/item#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#songs
+
+id:A001
+    item:Artist         "Harry Styles" ;
+    item:Track          "As It Was" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "1" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Harpoon, Tyler Johnson, Harry Styles" ;
+    item:Streams        "60,420,855" .
+
+id:A002
+    item:Artist         "Bad Bunny, Chencho Corleone" ;
+    item:Track          "Me Porto Bonito" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "4" ;
+    item:Producers      "Subelo NEO, Lennex, MAG, La Paciencia" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio, Orlando Javier Valle Vega" ;
+    item:Streams        "39,026,161" .
+    
+id:A003
+    item:Artist         "Bad Bunny, Chencho Corleone" ;
+    item:Track          "Ojitos Lindos" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "3" ;
+    item:Producers      "Masis, Tainy, La Paciencia" ;
+    item:Songwriters    "Tainy, Benito Antonio Martinez Ocasio, Liliana Margarita Saumet" ;
+    item:Streams        "37,623,538" .
+
+id:A004
+    item:Artist         "Kate Bush" ;
+    item:Track          "Running Up That Hill (A Deal With God)" ;
+    item:Source         "Parlophone UK" ;
+    item:Release       "Jun 2, 2022" ;
+    item:Previous       "-" ;
+    item:Producers      "-" ;
+    item:Songwriters    "Kate Bush" ;
+    item:Streams        "32,763,806" .
+
+id:A005
+    item:Artist         "Bad Bunny" ;
+    item:Track          "Titi Me Pregunto" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "9" ;
+    item:Producers      "MAG, La Paciencia" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio" ;
+    item:Streams        "1,126,704" .
+    
+id:A006
+    item:Artist         "Harry Styles" ;
+    item:Track          "Late Night Talking" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "2" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Kid Harpoon, Harry Styles" ;
+    item:Streams        "29,782,237" .
+
+id:A007
+    item:Artist         "Bad Bunny" ;
+    item:Track          "Moscow Mule" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "7" ;
+    item:Producers      "MAG, Mick, Scott, La Paciencia" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio" ;
+    item:Streams        "28,354,270" .
+
+id:A008
+    item:Artist         "Bad Bunny, Rauw Alejandro" ;
+    item:Track          "Party" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "12" ;
+    item:Producers      "Tainy, La Paciencia, Richi, Jota Rosa, Albert Hype" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio, Raul Alejandro Ocasio Ruiz" ;
+    item:Streams        "25,225,316" .
+    
+id:A009
+    item:Artist         "Lizzo" ;
+    item:Track          "About Damn Time" ;
+    item:Source         "Nice Life/Atlantic" ;
+    item:Release       "Apr 14, 2022" ;
+    item:Previous       "17" ;
+    item:Producers      "Ricky Reed, Blake Slatkin" ;
+    item:Songwriters    "Blake Slatkin, Eric Frederic, Larry Price, Malcolm McLaren, Melissa Jefferson, Ronald Larkins, Stephen Hague, Theron Makiel Thomas" ;
+    item:Streams        "24,606,401" .
+
+id:A010
+    item:Artist         "KAROL G" ;
+    item:Track          "PROVENZA" ;
+    item:Source         "UMLE - Latino" ;
+    item:Release       "Apr 22, 2022" ;
+    item:Previous       "20" ;
+    item:Producers      "Ovy On The Drums" ;
+    item:Songwriters    "Ovy On The Drums, Carolina Giraldo Navarro, Daniel Echavarría, Kevyn Mauricio Cruz Moreno" ;
+    item:Streams        "24,057,487" .
+
+id:A011
+    item:Artist         "Glass Animals" ;
+    item:Track          "Heat Waves" ;
+    item:Source         "Polydor Records" ;
+    item:Release       "Aug 6, 2020" ;
+    item:Previous       "21" ;
+    item:Producers      "Dave Bayley, Paul Epworth" ;
+    item:Songwriters    "Dave Bayley" ;
+    item:Streams        "23,389,223" .
+    
+id:A012
+    item:Artist         "Jack Harlow" ;
+    item:Track          "First Class" ;
+    item:Source         "Generation Now/Atlantic" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "18" ;
+    item:Producers      "Jack Harlow, Charlie Handsome, Jasper Harris, Angel “BabeTruth” Lopez, Rogét Chahayed" ;
+    item:Songwriters    "Rogét Chahayed, Christopher Bridges, Douglas Ford, Elvis Williams, Jackman Thomas Harlow, Jamal Jones, Jasper Lee Harris, José Velazquez, Micaiah Raheem, Nickie Jon Pabón, Ryan Vojtesak, Stacy Ferguson, Will Adams" ;
+    item:Streams        "3,194,068" .
+
+id:A013
+    item:Artist         "Bad Bunny" ;
+    item:Track          "Afecto" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "28" ;
+    item:Producers      "MAG, BASSCHARITY, La Paciencia" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio" ;
+    item:Streams        "22,024,056" .
+
+id:A014
+    item:Artist         "Harry Styles" ;
+    item:Track          "Matilda" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "5" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Amy Allen, Kid Harpoon, Harry Styles, Tyler Johnson" ;
+    item:Streams        "19,806,676" .
+    
+id:A015
+    item:Artist         "The Kid LAROI, Justin Bieber" ;
+    item:Track          "STAY (with Justin Bieber)" ;
+    item:Source         "Columbia" ;
+    item:Release       "Jul 23, 2021" ;
+    item:Previous       "23" ;
+    item:Producers      "Blake Slatkin, Omer Fedi, Charlie Puth, Cashmere Cat" ;
+    item:Songwriters    "Blake Slatkin, Omer Fedi, Charlie Puth, Charlton Howard, Isaac DeBoni, Justin Bieber, Magnus Hoiberg, Michael Mule, Subhaan Rahmaan" ;
+    item:Streams        "19,313,990" .
+
+id:A016
+    item:Artist         "Camila Cabello, Ed Sheeran" ;
+    item:Track          "Bam Bam (feat. Ed Sheeran)" ;
+    item:Source         "Epic" ;
+    item:Release       "Apr 7, 2022" ;
+    item:Previous       "27" ;
+    item:Producers      "Edgar Barrera, Cheche Alara, Ricky Reed" ;
+    item:Songwriters    "Camila Cabello, Cheche Alara, Ed Sheeran, Edgar Barrera, Eric Frederic, Scott Harris" ;
+    item:Streams        "19,043,848" .
+
+id:A017
+    item:Artist         "Harry Styles" ;
+    item:Track          "Music For a Sushi Restaurant" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "6" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Kid Harpoon, Harry Styles, Mitch Rowland, Tyler Johnson" ;
+    item:Streams        "18,452,649" .
+    
+id:A018
+    item:Artist         "Bad Bunny" ;
+    item:Track          "Despues de la Playa" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "26" ;
+    item:Producers      "MAG, El Apechao, Elikai, La Paciencia" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio" ;
+    item:Streams        "17,961,998" .
+
+id:A019
+    item:Artist         "Bad Bunny, Jhay Cortez" ;
+    item:Track          "Tarot" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "25" ;
+    item:Producers      "Tainy, La Paciencia, Albert Hype, Jota Rosa" ;
+    item:Songwriters    "Benito Antonio Martinez Ocasio, Jesus Nieves Cortez" ;
+    item:Streams        "17,804,884" .
+    
+id:A020
+    item:Artist         "Harry Styles" ;
+    item:Track          "Daylight" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "10" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Kid Harpoon, Harry Styles, Tyler Johnson" ;
+    item:Streams        "17,589,223" .
+
+id:A021
+    item:Artist         "Elton John, Dua Lipa, PNAU" ;
+    item:Track          "Cold Heart - PNAU Remix" ;
+    item:Source         "EMI" ;
+    item:Release       "Oct 22, 2021" ;
+    item:Previous       "30" ;
+    item:Producers      "Nicholas Littlemore, Peter Mayes, Sam Littlemore" ;
+    item:Songwriters    "Bernie Taupin, Elton John, Nick Littlemore, Andrew Meecham, Dean Meredith, Nicholas Littlemore, Peter Mayes, Sam Littlemore" ;
+    item:Streams        "16,663,633" .
+
+id:A022
+    item:Artist         "Elley Duhe" ;
+    item:Track          "MIDDLE OF THE NIGHT" ;
+    item:Source         "Not Fit For Society/RCA Records" ;
+    item:Release       "Jan 10, 2020" ;
+    item:Previous       "29" ;
+    item:Producers      "Andrew Wells" ;
+    item:Songwriters    "Sam Roman, Andrew Wells, Elley Duhé" ;
+    item:Streams        "16,520,142" .
+
+id:A023
+    item:Artist         "Harry Styles" ;
+    item:Track          "Little Freak" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "8" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Kid Harpoon, Harry Styles" ;
+    item:Streams        "16,510,238" .
+
+id:A024
+    item:Artist         "Kanye West, XXXTENTACION" ;
+    item:Track          "True Love" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 27, 2022" ;
+    item:Previous       "-" ;
+    item:Producers      "Kanye West, John Cunningham, Oji Volta, MIKE DEAN" ;
+    item:Songwriters    "Jahseh Onfroy, John Cunningham, John Roger Branch, Kanye West, Mark Williams, MIKE DEAN, Peter Phillips, Raul Cubina" ;
+    item:Streams        "16,005,890" .
+
+id:A025
+    item:Artist         "Bad Bunny" ;
+    item:Track          "Un Ratito" ;
+    item:Source         "Rimas Entertainment LLC" ;
+    item:Release       "May 6, 2022" ;
+    item:Previous       "31" ;
+    item:Producers      "Tainy, De La Cruz, La Paciencia" ;
+    item:Songwriters    "Tainy, Benito Antonio Martinez Ocasio" ;
+    item:Streams        "15,564,900" .
+
+id:A026
+    item:Artist         "Calvin Harris, Dua Lipa, Young Thug" ;
+    item:Track          "Potion (with Dua Lipa & Young Thug" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 27, 2022" ;
+    item:Previous       "-" ;
+    item:Producers      "Calvin Harris" ;
+    item:Songwriters    "Adam Wiles, Dua Lipa, Jeffery Williams, Jessie Reyez, Maneesh Bidaye" ;
+    item:Streams        "15,307,850" .
+
+id:A027
+    item:Artist         "Imagine Dragons, JID, Arcane, League of Legends" ;
+    item:Track          "Enemy (with JID) - from the series Arcane League of Legends" ;
+    item:Source         "KIDinaKORNER/Interscope Records" ;
+    item:Release       "Sep 3, 2021" ;
+    item:Previous       "32" ;
+    item:Producers      "Mattman & Robin" ;
+    item:Songwriters    "Justin Tranter, Ben McKee, Dan Reynolds, Daniel Platzman, Destin Route, Mattias Larsson, Robin Fredriksson, Wayne Sermon" ;
+    item:Streams        "14,915,794" .
+
+id:A028
+    item:Artist         "Justin Bieber" ;
+    item:Track          "Ghost" ;
+    item:Source         "RBMG/Def Jam" ;
+    item:Release       "Mar 19, 2021" ;
+    item:Previous       "36" ;
+    item:Producers      "The Monsters & Strangerz, Jon Bellion" ;
+    item:Songwriters    "Jonathan Bellion, Michael Pollack, Jordan K. Johnson, Justin Bieber, Stefan Johnson" ;
+    item:Streams        "14,689,680" .
+
+id:A029
+    item:Artist         "Cris Mj" ;
+    item:Track          "Una Noche en Medellin" ;
+    item:Source         "Nabru Records LLC" ;
+    item:Release       "Jan 21, 2022" ;
+    item:Previous       "33" ;
+    item:Producers      "Fran C" ;
+    item:Songwriters    "Cristopher Álvarez" ;
+    item:Streams        "14,597,087" .
+
+id:A030
+    item:Artist         "Harry Styles" ;
+    item:Track          "Grapejuice" ;
+    item:Source         "Columbia" ;
+    item:Release       "May 20, 2022" ;
+    item:Previous       "11" ;
+    item:Producers      "Kid Harpoon, Tyler Johnson" ;
+    item:Songwriters    "Kid Harpoon, Harry Styles, Tyler Johnson" ;
+    item:Streams        "14,556,310" .
